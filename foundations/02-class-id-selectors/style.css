@@ -1,0 +1,19 @@
+.class-selector {
+    background-color: rgb(241, 163, 176);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+#id-selector {
+    color: rgb(87, 87, 219);
+    font-size: 36px;
+}
+
+#id-selector-element-4 {
+    background-color: hsl(120, 80%, 72%);
+    font-size: 24px;
+    font-weight: bold;
+}
